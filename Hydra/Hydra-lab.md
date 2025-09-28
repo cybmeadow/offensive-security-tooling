@@ -1,6 +1,13 @@
 ## 🛡️ TryHackMe Room - Hydra Brute-Force
 
-My hands-on experience using **Hydra**, a powerful tool for brute-forcing credentials across multiple protocols. This project highlights my ability to analyze login mechanisms, craft attack strategies, and extract flags from deployed machines.
+My hands-on experience using **Hydra**, a powerful tool for brute-forcing credentials across multiple protocols including SSH, FTP, HTTP, and more. This project highlights my ability to analyze login mechanisms, craft attack strategies, and extract flags from deployed machines.
+
+---
+
+**Use Cases:**
+- Brute-force SSH, FTP, and web form credentials
+- Multi-threaded attacks for speed
+- Custom wordlists and username lists
 
 ---
 
