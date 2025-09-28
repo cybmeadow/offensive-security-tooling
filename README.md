@@ -6,20 +6,7 @@ In the **Offensive Security Tooling** module! I was able to learn hands-on exper
 
 ## 🔧 Tools Covered
 
-### 1️⃣ Hydra – Password Brute-Forcing
-
-Hydra is a fast and flexible login cracker that supports numerous protocols including SSH, FTP, HTTP, and more.
-
-**Use Cases:**
-- Brute-force SSH, FTP, and web form credentials
-- Multi-threaded attacks for speed
-- Custom wordlists and username lists
-
-**Example Command:**
-```bash
-hydra -l user -P /usr/share/wordlists/rockyou.txt ssh://10.10.112.60 -t 4
-```
-
+### 1️⃣ [Hydra – lab](https://github.com/cybmeadow/offensive-security-tooling/blob/main/Hydra/Hydra-lab.md)
 ---
 
 ### 2️⃣ Gobuster – Directory & File Discovery
