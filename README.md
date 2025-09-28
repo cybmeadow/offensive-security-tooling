@@ -6,7 +6,7 @@ In the **Offensive Security Tooling** module! I was able to learn hands-on exper
 
 ## 🔧 Tools Covered
 
-### 1️⃣ [Hydra – lab](https://github.com/cybmeadow/offensive-security-tooling/blob/main/Hydra/Hydra-lab.md)
+### 1️⃣ [Hydra – Password Brute-forcing](https://github.com/cybmeadow/offensive-security-tooling/blob/main/Hydra/Hydra-lab.md)
 ---
 
 ### 2️⃣ Gobuster – Directory & File Discovery
